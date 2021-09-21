@@ -1,0 +1,57 @@
+body{
+    font-family:  'Lobster', cursive;
+    background-color: #f5dbda;
+}
+.header_div{
+    background:white;
+    color: red;
+}
+.header_div img{
+    width:100px;
+}
+.main_div{
+    background:rgb(122, 242, 247);
+    padding:10px;
+    margin-top: 15px;
+    border:3px solid rgb(223, 16, 16);
+}
+.main_div label{
+    background:white;
+    width:310px;
+    padding:10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px lightgreen;
+}
+#camera,#result{
+    border:2px solid plum;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px greenyellow;
+}
+.main_div button{
+    width: 310px;
+    font-size:16px;
+    box-shadow: 5px 5px 18px violet;
+    border:1px solid;
+}
+.footer_div{
+    margin-bottom: 50px;
+}
+.footer_div img{
+   width:70px;
+}
+.footer_div h4{
+    background:rgb(105, 130, 240);
+    border-radius: 10px;
+    padding:5px;
+    box-shadow: 5px 5px 18px rgb(48, 252, 41)
+}
+.copy_right_footer{
+    position: fixed;
+    color:black;
+    bottom:0;
+    width:100%;
+    background-color: wheat;
+    line-height:3;
+    text-align:center;
+}
